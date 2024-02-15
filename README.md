@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhazaC
-- 👀 I’m interested in Software Develeopment, DevOps, and Data Analytics.
-- 🌱 I’m currently learning ReactJS, Python (Flask), MSSQL, Docker and NGINX.
+- 👀 I’m interested in any and all things realated to tech.
+- 🌱 I’m currently learning Go and Rust.
 - 📫 You can reach me at khazaichowdhury@gmail.com
 
 <!---
